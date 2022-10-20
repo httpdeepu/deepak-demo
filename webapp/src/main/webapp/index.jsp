@@ -1,2 +1,2 @@
-<h1>demo-project<h1>
+<h1>VKAPS-DEMO<h1>
 
